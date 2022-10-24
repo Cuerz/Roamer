@@ -15,5 +15,4 @@
 java -p javafx-sdk路径\lib --add-modules javafx.controls,javafx.base,javafx.fxml,javafx.graphics,javafx.media,javafx.web --add-opens=javafx.graphics/javafx.scene=ALL-UNNAMED --add-exports javafx.base/com.sun.javafx.event=ALL-UNNAMED -jar Roamer.jar
 ```
 
-![image-20221023133921322](C:\Users\16337\AppData\Roaming\Typora\typora-user-images\image-20221023133921322.png)
-
+![image-20221023133921322](https://user-images.githubusercontent.com/84277976/197441228-e387c60b-a7a4-4b69-b4ce-5250ef4e0eaf.png)
