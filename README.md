@@ -14,5 +14,9 @@
 ```
 java -jar Roamer.jar
 ```
+<img width="1319" alt="image" src="https://user-images.githubusercontent.com/84277976/228137391-d7b5e05e-1816-419a-8bc6-8ea9420d2158.png">
+<img width="1237" alt="image" src="https://user-images.githubusercontent.com/84277976/228137542-22b0e591-e795-4777-950b-810b01119d9f.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/84277976/228137704-75a201ce-48ca-4eb3-bcc2-dcebfba924d8.png">
+<img width="1023" alt="image" src="https://user-images.githubusercontent.com/84277976/228137877-105a4ca2-831b-4109-a72f-8cf0abc9dc37.png">
 
-![image-20221023133921322](https://user-images.githubusercontent.com/84277976/197441228-e387c60b-a7a4-4b69-b4ce-5250ef4e0eaf.png)
+
