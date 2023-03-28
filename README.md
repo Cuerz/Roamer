@@ -6,13 +6,13 @@
 
 # 使用方法
 
-1,运行环境为java11+，此版本JDK中因为不自带JavaFx模块，所以需要自行下载JavaFx模块。
+1.运行环境为java11+.
 2.运行前请填写在jar包所在目录的config.yaml文件，里面是相关资产测绘平台的配置。
 
 3.运行命令为
 
 ```
-java -p javafx-sdk路径\lib --add-modules javafx.controls,javafx.base,javafx.fxml,javafx.graphics,javafx.media,javafx.web --add-opens=javafx.graphics/javafx.scene=ALL-UNNAMED --add-exports javafx.base/com.sun.javafx.event=ALL-UNNAMED -jar Roamer.jar
+java -jar Roamer.jar
 ```
 
 ![image-20221023133921322](https://user-images.githubusercontent.com/84277976/197441228-e387c60b-a7a4-4b69-b4ce-5250ef4e0eaf.png)
