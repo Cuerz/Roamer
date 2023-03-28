@@ -1,9 +1,0 @@
-Hunter:
-  ApiUrl: https://hunter.qianxin.com/
-  ApiKey: 30753035878d5cf9b579ec5fa6f34bc166459d62f943af4f49c1e50ba2f90cf3
-  Num: 100
-FOFA:
-  ApiUrl: https://fofa.info/
-  Email: 2690566862@qq.com
-  ApiKey: fda2ea696ab59d95ff0e08c1d3a0f01e
-  Num: 100
