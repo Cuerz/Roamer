@@ -1,0 +1,9 @@
+Hunter:
+  ApiUrl: https://hunter.qianxin.com/
+  ApiKey: xxxxx
+  Num: 100
+FOFA:
+  ApiUrl: https://fofa.info/
+  Email: xxxxx
+  ApiKey: xxxxx
+  Num: 100
